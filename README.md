@@ -76,6 +76,7 @@ Custom rEFInd bootloader themes, configurations, and tools tailored for modern g
 
 ## 🎮 Features
 
+- Customized rEFInd EFI for ROG ALLY (Using volume up and down to choose operating systems)
 - Controller-friendly rEFInd themes for handhelds
 - Touchscreen-friendly and controller-compatible interface
 - Predefined entries for Windows, SteamOS, Bazzite
