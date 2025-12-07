@@ -1,4 +1,4 @@
-# rEFInd Bootloader (Dual Boot) for Gaming Handheld PCs
+# rEFInd Bootloader (Dual Boot) for Gaming Handheld PCs (With customized EFI compiled for ROG ALLY)
 
 ## 📄 Screenshots
 
